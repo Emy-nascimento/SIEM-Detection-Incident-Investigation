@@ -1,4 +1,4 @@
-🔎 SIEM — Criar detecções e investigar ataques
+##  🔎 SIEM — Criar detecções e investigar ataques
 
 Aqui você não apenas "usa um SIEM".
 
@@ -14,4 +14,4 @@ criação de usuário privilegiado
 
 múltiplos eventos anormais no mesmo endpoint
 
-Você cria as regras, gera eventos de laboratório e depois investiga os próprios alertas.
+criaR as regras, gera eventos de laboratório e depois investiga os próprios alertas.
