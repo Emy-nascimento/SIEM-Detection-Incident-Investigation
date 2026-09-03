@@ -1,15 +1,17 @@
-# SIEM-Detection-Incident-Investigation
-Aqui você recebe uma captura de tráfego de uma rede empresarial.
+🔎 SIEM — Criar detecções e investigar ataques
 
-Você precisa descobrir se existe comportamento malicioso.
+Aqui você não apenas "usa um SIEM".
 
-Investiga:
+Você será responsável por criar as detecções.
 
-DNS;
-TCP;
-HTTP;
-IPs;
-portas;
-padrões de comunicação;
-possíveis C2;
-transferência de dados.
+Exemplos:
+
+20 falhas de login + 1 login bem-sucedido
+
+PowerShell suspeito + conexão externa
+
+criação de usuário privilegiado
+
+múltiplos eventos anormais no mesmo endpoint
+
+Você cria as regras, gera eventos de laboratório e depois investiga os próprios alertas.
